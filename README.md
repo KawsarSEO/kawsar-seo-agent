@@ -1,26 +1,47 @@
-# Kawsar SEO Agent
+# The SEO Skills Pack
 
-An AI agent skill for **SEO, AEO, GEO, AI Rank, and Content Writing**, built by Mohammad Kawsar.
+SEO, AEO, GEO, AI Rank, content, outreach, and ads skills for local service businesses, written so an AI agent can actually use them.
 
-It turns any website into a clear, verified audit and a practical fix plan, then writes the content that ranks on Google and gets cited by AI search engines.
+**15 skills and 6 commands across 6 plugins**, for [Claude Code](https://docs.anthropic.com/en/docs/claude-code).
 
-## What it covers
+**Not sure which skill you need? Start with the [skill index](./INDEX.md)** — every skill in this repo arranged by the situation you are in, plus the pairs most often mistaken for each other.
 
-| Area | What the agent does |
-| --- | --- |
-| SEO | Full website audit: technical, on page, local, and Google Business Profile. Every issue is reported with its business harm, never as a bare technical note. |
-| AEO | Answer Engine Optimization: structure content so Google featured snippets, People Also Ask, and voice answers pick it up. |
-| GEO | Generative Engine Optimization: make the business the source AI engines cite, with clear entities, quotable facts, and fresh content. |
-| AI Rank | Check and improve visibility inside ChatGPT, Perplexity, and Google AI Overviews. |
-| Content Writing | Write SEO and AI optimized content: service pages, blog posts, FAQs, and local pages that answer real searches. |
+## Getting started (no coding needed)
 
-## How to use
+These skills run inside an AI coding assistant. The easiest place to use them is Claude Code, and it takes three steps. No terminal required.
 
-Load the skill and give the agent a website URL and a goal. Examples:
+**1. Get Claude Code.** It is a free app from Anthropic (claude.com). Download it, sign in, and open it. You only do this once.
 
-- `Audit https://example.com and list the issues costing it bookings`
-- `Write a service page for Botox in Fort Worth that can rank and get cited by AI search`
-- `Check how this business appears in AI search answers`
+**2. Add the suite.** In Claude Code, type this and press enter:
+
+```
+/plugin marketplace add KawsarSEO/kawsar-seo-agent
+```
+
+This just tells Claude where the skills live. Nothing installs yet.
+
+**3. Pick what you want.** Type `/plugin` and press enter, then open the **Discover** tab. You will see all the collections. Move with the arrow keys, press space to tick the ones you want, and enter to install. That is it.
+
+### I only want one specific plugin
+
+Install one by name:
+
+```
+/plugin install outreach@kawsar-seo-agent
+```
+
+---
+
+## The six plugins
+
+| Plugin | Skills | Commands | What it covers |
+| --- | --- | --- | --- |
+| seo-audit | 2 | 1 | Full website audits and structured data: find the issues costing a business bookings, and mark up content so search engines understand it. |
+| local-seo | 2 | 1 | Google Business Profile and reviews: rank in the map pack, win reviews, and keep business details consistent everywhere. |
+| ai-search | 3 | 1 | Answer engine and generative engine optimization plus AI Rank: get featured in snippets and cited by AI search engines. |
+| content | 3 | 1 | Content that ranks and reads human: SEO pages, human sounding rewrites, and social media posts for local businesses. |
+| outreach | 3 | 1 | Win local clients: cold outreach emails from website audits, competitor analysis, and keyword research. |
+| ads | 2 | 1 | Paid ads for local service businesses: Google Ads and Facebook and Instagram ads that turn clicks into bookings. |
 
 ## House rules
 
@@ -29,22 +50,7 @@ These rules come from real client work and apply to everything the agent produce
 1. **Verify before claiming.** Only report issues actually observed on the live site, with page evidence. Never invent a problem, a number, or a contact detail.
 2. **Frame every issue with business harm.** The client should read it and think "yes, I have these mistakes, I need to fix this." Lost bookings, lost visibility, lost trust.
 3. **Lead with the most critical issue.** The most costly problem goes first.
-4. **No speed or mobile test claims** unless a real test was run.
-5. **Plain language.** The client is a business owner, not an SEO. Say "your homepage has no way for a visitor to book" instead of "missing conversion element."
-
-## Layout
-
-```text
-kawsar-seo-agent/
-├── README.md
-└── skills/
-    └── seo-aeo-geo/
-        ├── SKILL.md                      Main playbook: the five workflows
-        └── references/
-            ├── seo-audit-checklist.md    Full audit checklist
-            ├── aeo-geo-playbook.md       AEO, GEO, and AI Rank guide
-            └── content-writing-guide.md  SEO and AI content writing guide
-```
+4. **Plain language.** The client is a business owner, not an SEO. Say "your homepage has no way for a visitor to book" instead of "missing conversion element."
 
 ## About
 
