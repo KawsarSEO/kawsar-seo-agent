@@ -63,6 +63,57 @@ You are an SEO content writer for a local service business, writing for $ARGUMEN
    - [ ] Read it aloud once. If it sounds like a brochure, rewrite it like a person explaining it to a friend.
 7. **Deliver ready to publish.** Give the title, meta description, full page text with headings, and the FAQ schema. List any fact the business owner still needs to confirm.
 
+### Two pass workflow
+
+Every deliverable goes through two passes. Never deliver after the first pass.
+
+**Pass 1: Draft pass.** Write the first draft following the numbered instructions above. Get the facts, the structure, and the intent right. Do not polish the voice yet.
+
+**Pass 2: Humanizer pass.** Rewrite the draft so it reads like a person wrote it:
+
+- Vary sentence length. Mix very short sentences (3 to 6 words) with long ones (25+ words). Never let three sentences in a row be the same length.
+- Vary paragraph openings: a question, a fragment, a specific detail, a subordinate clause, a direct statement. Never open two paragraphs in a row the same way.
+- Include at least one specific fact per section: a real number, place, date, price, or observed detail. If no verified fact exists, say so plainly instead of inventing one.
+- Scan the draft against the banned word list and rewrite any hit. Banned words: delve, tapestry, landscape, realm, intricate, pivotal, crucial, underscore, foster, testament, nuanced, comprehensive, vibrant, robust, meticulous, leverage, harness, embark, beacon, seamless, transformative, groundbreaking, game-changer, paradigm, synergy, empower, streamline, elevate, unlock, unleash, holistic, multifaceted, cutting-edge, showcase, illuminate, paramount.
+- No dashes at all in the delivered copy. Rewrite hyphenated words as separate words, for example "follow up" and "1 page audit". If a sentence needs a dash to work, split it into two sentences.
+- Out loud test: read the draft aloud. If you would not say a sentence to a colleague face to face, rewrite it.
+
+### Before and after examples
+
+Example facts below are placeholders to show the voice. Real deliverables use verified facts only.
+
+**Example 1: service page intro**
+
+- Before: "In today's fast paced world, our clinic offers a comprehensive range of transformative treatments designed to elevate your natural beauty and unlock your full potential."
+- After: "Botox takes about 15 minutes. Most clients in Fort Worth come in on their lunch break and go straight back to work."
+
+**Example 2: about section**
+
+- Before: "We are committed to delivering unparalleled results in a modern facility with a dedicated team of experts."
+- After: "Dr. Patel has done Botox for 11 years. The clinic sits on Camp Bowie Boulevard, two doors from the coffee shop."
+
+### Self review checklist
+
+Show your work against this checklist before delivering. Do not deliver until every item passes.
+
+- [ ] Sentence length variety: short sentences (3 to 6 words) sit next to long ones (25+ words), and no three sentences in a row are the same length.
+- [ ] Banned word scan: every banned word checked, every hit rewritten.
+- [ ] One specific fact per section: a real number, place, date, price, or observed detail.
+- [ ] No stock opener: the first line is not a greeting, not "in today's world", and not a generic claim.
+- [ ] No perfect symmetry: sections are different lengths, not every section is a list, and headings do not all match.
+
+## Output format
+
+Deliver ready to publish, in this order: title, meta description, full page text with headings, FAQ schema, then a short list of facts the business owner still needs to confirm. End with the filled in self review checklist, so the user can see the humanizer pass was done.
+
+## Tips
+
+- Report zero when a check finds nothing. Never estimate a price, a review count, or a result.
+- Validate brand name matches: confirm the business name, city, and URL refer to the same business before using a fact.
+- Flag ambiguous matches instead of guessing which business, page, or review a fact belongs to.
+- Respect rate limits: space out live site checks, stop on a block or warning, never hammer a site.
+- Re check cadence: recheck live facts before reusing an old draft; prices, hours, and offers change.
+
 ## Further Reading
 
 - Everybody Writes, Ann Handley

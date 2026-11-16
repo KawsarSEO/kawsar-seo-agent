@@ -8,6 +8,8 @@ Every skill in this repo, arranged by the situation you are in. Find your situat
 | --- | --- | --- |
 | I want to audit a website and find what is costing it bookings | website-audit | Full audit: technical, on page, local, reviews, content, conversion, every issue with its business harm |
 | I want Google to understand my pages better | structured-data | Add FAQ, LocalBusiness, and review schema so search engines read the page correctly |
+| I want to track rankings without paying for a tool | rank-tracking-free | Free rank tracking: check positions with free methods and record them over time |
+| I want a 90 day plan from my audit and research | seo-plan | Compose audit, keyword research, competitor analysis, and AI visibility outputs into a 90 day SEO plan with phases, owners, success metrics, and a critical path |
 
 ## My client is invisible locally
 
@@ -23,6 +25,8 @@ Every skill in this repo, arranged by the situation you are in. Find your situat
 | I want my content in featured snippets and voice answers | aeo | Answer Engine Optimization: direct answers, question headings, FAQ schema |
 | I want AI search engines to cite my client | geo | Generative Engine Optimization: clear entities, quotable facts, fresh content, independent mentions |
 | I want to know if AI search mentions my client at all | ai-rank | Test visibility in ChatGPT, Perplexity, and Google AI Overviews, and track it over time |
+| I want one report joining Search Console and AI search | gsc-ai-reporting | GSC and AI search reporting: queries, clicks, and AI citations in one place |
+| I want AI answers to cite my client | ai-visibility | AI answer citations: track where AI engines cite the business and grow that coverage |
 
 ## I need content
 
@@ -39,6 +43,7 @@ Every skill in this repo, arranged by the situation you are in. Find your situat
 | I want to email a lead about their website | outreach-email | Cold outreach emails from a verified audit, with subject lines and a follow up cadence |
 | I want to know how my client compares to rivals | competitor-analysis | Compare websites, keywords, content, GBP, and reviews to find gaps the client can win |
 | I want to know which keywords to target | keyword-research | Find keywords by intent and winnability, with the page each group needs |
+| I want local links that raise my client's authority | link-building | Local link building: earn links from local sites, directories, and partners |
 
 ## I want paid traffic
 
@@ -46,6 +51,22 @@ Every skill in this repo, arranged by the situation you are in. Find your situat
 | --- | --- | --- |
 | I want paid traffic from Google search | google-ads | Campaign structure, keywords, ad copy, landing page match, location targeting |
 | I want paid traffic from Facebook and Instagram | facebook-ads | Audience targeting, ad copy, creative ideas, lead forms, retargeting basics |
+
+## Agents
+
+The `agents/` folder holds 9 agents that use these skills to do longer jobs end to end.
+
+| Agent | What it does |
+| --- | --- |
+| seo-agent | Role agent: runs full SEO work end to end using the audit and content skills |
+| local-seo-agent | Role agent: local search work: GBP, reviews, and local visibility |
+| ai-visibility-agent | Role agent: AI search work: citations, answers, and AI rank |
+| content-agent | Role agent: content work: pages, rewrites, and social posts |
+| technical-audit | Specialist audit agent: technical issues on the site |
+| content-audit | Specialist audit agent: content gaps and quality issues |
+| schema-audit | Specialist audit agent: structured data and schema markup |
+| local-audit | Specialist audit agent: local SEO issues: GBP, citations, reviews |
+| ai-search-audit | Specialist audit agent: AI search visibility and citation gaps |
 
 ## Commands
 

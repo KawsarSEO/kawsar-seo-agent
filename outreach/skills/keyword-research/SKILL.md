@@ -32,6 +32,6 @@ You are an SEO strategist building a keyword plan for a local service business. 
 
 ## Further Reading
 
-- The Art of SEO — Eric Enge, Stephan Spencer, Jessie Stricchiola
-- Search Engine Journal — https://www.searchenginejournal.com
-- Google Keyword Planner — https://ads.google.com/home/tools/keyword-planner/
+- The Art of SEO: Eric Enge, Stephan Spencer, Jessie Stricchiola
+- Search Engine Journal: https://www.searchenginejournal.com
+- Google Keyword Planner: https://ads.google.com/home/tools/keyword-planner/

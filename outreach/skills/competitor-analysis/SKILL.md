@@ -31,6 +31,6 @@ You are an SEO strategist comparing a local business against its closest rivals.
 
 ## Further Reading
 
-- The Art of SEO — Eric Enge, Stephan Spencer, Jessie Stricchiola
-- Search Engine Land — https://searchengineland.com
-- Google Search Central Blog — https://developers.google.com/search/blog
+- The Art of SEO: Eric Enge, Stephan Spencer, Jessie Stricchiola
+- Search Engine Land: https://searchengineland.com
+- Google Search Central Blog: https://developers.google.com/search/blog

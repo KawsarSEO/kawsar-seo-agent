@@ -11,6 +11,8 @@ Search is no longer only a list of links. Clients get their answer straight from
 | aeo | Answer Engine Optimization: featured snippets, People Also Ask, and voice answers. |
 | geo | Generative Engine Optimization: getting cited by ChatGPT, Perplexity, and Google AI Overviews. |
 | ai-rank | Measuring visibility inside AI answers with prompt tests and a recorded baseline. |
+| gsc-ai-reporting | Report GSC queries and clicks next to AI search citations, in one readable report. |
+| ai-visibility | Track and grow AI answer citations: where ChatGPT, Perplexity, and AI Overviews cite the business. |
 
 ## Commands
 

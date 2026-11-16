@@ -32,6 +32,6 @@ You are a local SEO specialist working on reviews for $ARGUMENTS. $ARGUMENTS is 
 
 ## Further Reading
 
-- Google Business Profile Help, read and reply to reviews — support.google.com/business/answer/3474122
-- BrightLocal, Local Consumer Review Survey — brightlocal.com/research/local-consumer-review-survey
-- ReviewTrackers, review management guides — reviewtrackers.com
+- Google Business Profile Help, read and reply to reviews: support.google.com/business/answer/3474122
+- BrightLocal, Local Consumer Review Survey: brightlocal.com/research/local-consumer-review-survey
+- ReviewTrackers, review management guides: reviewtrackers.com

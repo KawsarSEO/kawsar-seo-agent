@@ -9,6 +9,7 @@ Win local clients with honest, specific outreach. Turn a verified website audit 
 | outreach-email | Write cold outreach emails from a verified audit, with subject lines and a Day 3, 7, 14 follow up cadence |
 | competitor-analysis | Compare a business against its top rivals on website, keywords, content, GBP, and reviews |
 | keyword-research | Find keywords by intent and winnability: local modifiers, question keywords, competitor keywords |
+| link-building | Earn local links: local sites, directories, and partners that raise the client's authority |
 
 ## Commands
 

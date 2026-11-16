@@ -8,6 +8,8 @@ Audit skills for local business websites. Every issue is reported with the page 
 | --- | --- |
 | website-audit | Full website audit: technical, on page, content, and conversion, with issues ranked by business harm. |
 | structured-data | Audit existing schema markup and write correct JSON-LD: LocalBusiness, FAQPage, Review, and Service. |
+| rank-tracking-free | Track keyword rankings with free methods, no paid tool needed, recorded over time. |
+| seo-plan | Compose audit, keyword research, competitor analysis, and AI visibility outputs into a 90 day SEO plan with phases, owners, success metrics, and a critical path. |
 
 ## Commands
 

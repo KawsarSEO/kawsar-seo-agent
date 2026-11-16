@@ -32,6 +32,6 @@ You are an SEO specialist working on schema markup for $ARGUMENTS. $ARGUMENTS is
 
 ## Further Reading
 
-- Schema.org, full type hierarchy — schema.org
-- Google Search Central, Structured data markup guide — developers.google.com/search/docs/appearance/structured-data/intro-structured-data
-- Google Rich Results Test — search.google.com/test/rich-results
+- Schema.org, full type hierarchy: schema.org
+- Google Search Central, Structured data markup guide: developers.google.com/search/docs/appearance/structured-data/intro-structured-data
+- Google Rich Results Test: search.google.com/test/rich-results

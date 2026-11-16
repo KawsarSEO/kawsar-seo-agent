@@ -34,6 +34,6 @@ You are a local SEO specialist optimizing a Google Business Profile for $ARGUMEN
 
 ## Further Reading
 
-- Google Business Profile Help, profile basics — support.google.com/business
-- Google Search Central, Local SEO guide — developers.google.com/search/docs/fundamentals/local-seo
-- Whitespark, Local Search Ranking Factors — whitespark.ca
+- Google Business Profile Help, profile basics: support.google.com/business
+- Google Search Central, Local SEO guide: developers.google.com/search/docs/fundamentals/local-seo
+- Whitespark, Local Search Ranking Factors: whitespark.ca
